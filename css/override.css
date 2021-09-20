@@ -46,9 +46,13 @@ hr {
 
 /* /////////// */
 
+.site-title, .site-title:visited {
+  color: white;
+}
+
 .site-header {
   border-top: 0px;
-  border-bottom: 0px;
+  /* border-bottom: 0px; */
 }
 
 body {
