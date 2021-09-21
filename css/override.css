@@ -66,6 +66,12 @@ a {
   text-decoration: none;
 }
 
+img {
+  width: 100%;
+  display: block;
+  padding-top: 10px;
+}
+
 .site-nav {
   display: none;
 }
