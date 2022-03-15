@@ -1,8 +1,18 @@
 
+- - - cycling between 3 locations using spoofer and faraday cage. 
 
+<video width="740" controls>
+  <source src="/video/faradaycage.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 
 - - - Improved faraday cage with method to inject wifi signals (spoofing)
+
+<video width="740" controls>
+  <source src="/video/faradaycage.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ![](/img/IMG_20220312_150241_1.jpg)
 
