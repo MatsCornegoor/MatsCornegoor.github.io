@@ -1,4 +1,14 @@
 
+- - - Improved faraday cage with method to inject wifi signals (spoofing)
+
+![](/img/IMG_20220312_150241_1.jpg)
+
+![](/img/IMG_20220314_145526.jpg)
+
+- - - First attempt to make a faraday cage to block all communication of phone
+
+![](/img/IMG_20220314_162739.jpg)
+
 - - - Mini wardriving tool to get wifi AP data that is used for wifi triangulation
 
 ![](/img/Screenshot 2022-03-15 at 11.33.46.png)
