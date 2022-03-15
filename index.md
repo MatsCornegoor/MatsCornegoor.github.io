@@ -2,7 +2,7 @@
 - - - cycling between 3 locations using spoofer and faraday cage. 
 
 <video width="740" controls>
-  <source src="/video/jump35s3.mp4" type="video/mp4">
+  <source src="/video/jump_35s3.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
